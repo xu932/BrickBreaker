@@ -20,7 +20,7 @@ The `Media` folders have classes controlling the audio and the image handling.
 
 `Ranking` system is not complete since the ranking will be lost every time the game ends (as of right now).
 
-*Note: All images are acquired from internet (mainly from a formal game called Block Breaker). If will be taken down if violates copy right.*
+*Note: All images are acquired from internet (mainly from a game called Block Breaker). If will be taken down if violates copy right.*
 
 Sample Gameplay Images
 ----------------------
