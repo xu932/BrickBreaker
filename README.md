@@ -22,4 +22,8 @@ The `Media` folders have classes controlling the audio and the image handling.
 
 *Note: All images are acquired from internet (mainly from a formal game called Brick Breaker on iOS). If will be taken down if violates copy right.*
 
-
+Sample Gameplay Images
+----------------------
+![Imgur](https://i.imgur.com/rJaLfIf.png)
+![Imgur](https://i.imgur.com/L3GD4pA.png)
+![Imgur](https://i.imgur.com/be0kKEz.png)
